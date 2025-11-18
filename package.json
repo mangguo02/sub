@@ -1,0 +1,13 @@
+{
+  "name": "sub",
+  "version": "2.0.0",
+  "description": "订阅管理系统 - 基于CloudFlare Workers",
+  "main": "index.js",
+  "keywords": [
+    "cloudflare-workers",
+    "subscription-management",
+    "notification",
+    "lunar-calendar"
+  ],
+  "license": "MIT"
+}
